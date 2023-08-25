@@ -1,0 +1,284 @@
+{
+   "Your wallet": "Your wallet",
+   "header": {
+      "menu-item-1": "우리의 미션",
+      "menu-item-2": "주요 특징",
+      "menu-item-3": "토큰노믹스",
+      "menu-item-4": "FAQ",
+      "menu-item-5": "로드맵",
+      "button-back-to-home": "Connect wallet"
+   },
+   "block-1": {
+      "title-1": "차세대 블록체인 및 암호화폐",
+      "button-text": "토큰 사전 판매",
+      "video-instructions-text": "동전 구매에 대한 비디오 지침",
+      "title-2": "PROJECT202란?",
+      "text-1": "PROJECT202 인프라는 지분 증명(PoS) 알고리즘 기반 블록체인 3.0 시스템으로, 다양한 국가에 자체 분산 데이터 센터가 있습니다.  암호 화폐 인프라 서비스에 사용되지 않는 예비 장비 용량은 P202 토큰을 통해 지불되는 P202 서버 플랫폼에서 사용하기 위해 임대할 수 있습니다.",
+      "text-2": " 트랜잭션 처리 및 전체 인프라의 작업은 서버 장비에서 유지되어 트랜잭션 속도 기능을 초당 100,000개 이상의 트랜잭션으로 확장합니다."
+   },
+   "block-2": {
+      "title": "우리의 미션",
+      "text-1": "실제 서버 인프라를 활용한 비즈니스 모델",
+      "text-2": "매우 희소한 구성 요소를 사용하지 않고 서버 아키텍처를 구성할 때(구조는 고성능 스토리지 드라이브, RAM 및 프로세서 번들을 기반으로 함) 서버를 시작하고 P202 네트워크로의 추가 통합은 다른 공급에 의해 방해받지 않습니다. 비디오 카드 및 그래픽 가속기와 같은 구성 요소.",
+      "text-3": "이렇게 하면 검증자가 네트워크에 연결할 때 설치 및/또는 구성에 문제가 발생하지 않습니다.  한편, 높은 유동성으로 인해 하드웨어의 이전 유휴 용량을 사용할 수 있습니다.",
+      "text-4": "저희 서버는 우리 네트워크의 핵심 노드에서",
+      "text-5": "이를 통해 최대 수의 사람들이 장비를 사용하여 당사 네트워크에 가입할 수 있는 기회를 가질 수 있고 능력 활용에 대한 보장된 수입을 얻을 수 있습니다.",
+      "text-6": "2023년까지 플랫폼에 4,000개가 있을 것으로 예상합니다.이 숫자는 2024년까지 28,000개로 증가할 것으로 예상됩니다"
+   },
+   "block-3": {
+      "title": "주요 기능 및 장점",
+      "subtitle": "PROJECT 202는 전체 인프라에서 P202 코인의 사용을 가능하게 하고, 뿐만 아니라 커미션 지불, 발전기에 대한 지불 및 구매",
+      "card-1": {
+         "title": "데이터 센터의 자체 인프라",
+         "description": "전 세계에 분산된 데이터 센터 네트워크를 통해 Project 202의 안전하고 안정적인 운영이 가능합니다."
+      },
+      "card-2": {
+         "title": "낮은 수수료 및 지연 없는 트랜잭션",
+         "description": "수수료가 낮기 때문에 암호화폐 가격과 무관하게 송금할 수 있도록 단 몇 센트만 지불하면 됩니다."
+      },
+      "card-3": {
+         "title": "코인율의 안정적인 상승",
+         "description": "500,000,000 코인의 고정 공급. 제한된 방출은 코인 비율의 지속적인 성장을 보장하여 전체 커뮤니티가 이익을 얻을 수 있는 기회를 제공합니다."
+      },
+      "card-4": {
+         "title": "우리는 최선을 다하고 그것을 정제했습니다",
+         "description": "블록체인 모델은 프로젝트 작업에 맞게 업데이트되고 최적화됩니다. Al 기반의 'Blockchain Project 202'가 가까운 시일 내에 출시됩니다."
+      }
+   },
+   "block-4": {
+      "title": "프로젝트 토큰노믹스",
+      "subtitle": "프로젝트 개발은 향후 수십 년 동안 로드맵에 의해 확보되고 뒷받침됩니다.  많은 혁신적인 탈중앙화 서비스의 도입은 코인이 시장에서 지속적으로 수요가 있음을 보장할 것입니다.",
+      "card-text-1": {
+         "text": "코인의 기본 몫은 인프라 유지 관리, 블록체인 간 교환, 거래 수행, 중앙 집중식 및 분산형 거래소에 볼륨을 배치하는 데 사용됩니다.",
+         "percent": 35
+      },
+      "card-text-2": {
+         "text": "기술 생태계 지원.  P202 코인은 'Project 202 Server' 플랫폼인 Blockchain P202와 P202 Pay 시스템에서 사용됩니다.",
+         "percent": 25
+      },
+      "card-text-3": {
+         "text": "개발팀의 코인은 21개월 동안 동결됩니다. 이후, team.finance의 도움으로 25%씩 점차적으로 동결 해제됩다.",
+         "percent": 15
+      },
+      "card-text-4": {
+         "text": "유동성 (동전은 유동성을 동결하는 데 사용됩니다)",
+         "percent": 10
+      },
+      "card-text-5": {
+         "text": "고문용 코인은 Project 202 컨설턴트에게 배포됩니다.",
+         "percent": 10
+      },
+      "card-text-6": {
+         "text": "Airdrop P202는 커뮤니티 내에서 배포됩니다.",
+         "percent": 5
+      },
+      "card-text-7": {
+         "text": "",
+         "percent": ""
+      },
+      "card-text-8": {
+         "text": "",
+         "percent": ""
+      },
+      "graph": {
+         "title": "토큰 동결 해제 스테이지",
+         "text-1": {
+            "count": "Q1",
+            "year": "2023년",
+            "row-1": "에어드롭 토큰의 ¼을 동결 해제합니다.",
+            "row-2": "팀 토큰의 25%를 동결 해제합니다."
+         },
+         "text-2": {
+            "count": "Q2",
+            "year": "2023년",
+            "row-1": "에어드롭 토큰의 ¼을 동결 해제합니다.",
+            "row-2": "팀 토큰의 25%를 동결 해제합니다."
+         },
+         "text-3": {
+            "count": "Q3",
+            "year": "2023년",
+            "row-1": "에어드롭 토큰의 ¼을 동결 해제합니다.",
+            "row-2": "팀 토큰의 25%를 동결 해제합니다."
+         },
+         "text-4": {
+            "count": "Q4",
+            "year": "2023년",
+            "row-1": "에어드롭 토큰의 ¼을 동결 해제합니다.",
+            "row-2": "팀 토큰의 25%를 동결 해제합니다."
+         }
+      },
+      "text-bottom": "암호화폐 외에도 Project202에는 공식적으로 등록된 별도의 회사가 있으며 모든 분산 서비스는 P202 Server의 서버 인프라를 사용하여 별도로 실행됩니다.",
+      "list": {
+         "elem-1": "고속 VDS 서버 임대 프로그램",
+         "elem-2": "P202 클라우드 기반 솔루션",
+         "elem-3": "빅데이터 처리 솔루션",
+         "elem-4": "AI 기반 처리 알고리즘",
+         "elem-5": "SaaS 서비스",
+         "elem-6": "메타 유니버스 생성 및 배포용 SDK",
+         "elem-7": "P202 서버에서 4K 및 8K 온라인 방송 서비스"
+      }
+   },
+   "block-5": {
+      "title": "질문 및 답변",
+      "elem-1": {
+         "question": "P202 블록체인 모델은 무엇입니까?",
+         "answer": "블록체인은 향상된 트랜잭션 처리와 감소된 블록 크기로 지분 증명(PoS) 합의 알고리즘에서 작동합니다."
+      },
+      "elem-2": {
+         "question": "발전기 란 무엇입니까?",
+         "answer": "생성기는 Project 202의 핵심입니다. 각 생성기는 트랜잭션을 처리하고 합의에 참여함으로써 Project202 네트워크가 세계에서 가장 광범위한 블록체인 3.0이 되도록 돕습니다."
+      },
+      "elem-3": {
+         "question": "프로젝트에 자체 데이터 센터와 서버가 있는 이유는 무엇입니까?",
+         "answer": "서버는 모든 기술 프로젝트의 필수적인 부분으로, 제품 생성 및 테스트는 물론 인프라 보안 유지를 가능하게 합니다. 여러 국가 및 관할 구역에 있는 당사의 위치를 ​​통해 한 관할 구역에 집중하는 것과 관련된 위험을 줄일 수 있습니다."
+      },
+      "elem-4": {
+         "question": "서버는 어떻게 임대됩니까?",
+         "answer": "서버는 암호화폐 및 기타 방법을 통한 지불을 용이하게 하기 위해 Project 202 Server 플랫폼에서 임대됩니다.  블록체인 프로젝트 및 Dapp 애플리케이션을 생성하기 위한 VDS 서버 및 기성 솔루션. 당사의 클라우드 솔루션은 최신 장비 및 솔루션을 기반으로 합니다."
+      },
+      "elem-5": {
+         "question": "이미 구현된 것은 무엇입니까?",
+         "answer": "현재 기본 기능과 다른 암호화폐와 함께 토큰을 저장, 교환, 전송 및 소유할 수 있는 기능을 갖춘 P202 Wallet 1.0v가 준비되었습니다.  '블록체인 프로젝트 202' 테스트넷이 런칭되었습니다.  서버 'P202 Generator' 프로그램이 개발되어 현재 테스트 중입니다. '프로젝트 202 서버' 임대 용량 프로젝트는 현재 개발 중입니다."
+      },
+      "elem-6": {
+         "question": "블록체인 브리지가 필요한 이유는 무엇입니까?",
+         "answer": "다른 블록체인에서 토큰 및 기타 암호 화폐를 마이그레이션하기 위한 브리지는 주로 트랜잭션 및 전송을 위해 데이터 및 계정을 오래되고 과부하된 블록체인에서 다른 블록체인으로 전송할 가능성과 현재 네트워크의 새 버전과 블록체인의 호환성을 위해 필요합니다. 및 토큰."
+      },
+      "elem-7": {
+         "question": "프로젝트에 P202 D, E, F 스테이블코인이 필요한 이유는 무엇입니까?",
+         "answer": "스테이블 코인은 시장 상황에 관계없이 고정된 가치를 유지하는 필수 단위입니다.  상품이나 서비스에 대한 결제 기능을 개발하기 위해서는 스테이블 코인이 필요합니다.  이는 시장 조작의 경우와 같이 암호화폐 환율 붕괴 가능성으로 인한 역효과의 위험을 제거합니다.  P202D 스테이블코인은 실제 은행의 실제 자산으로 보호되므로 항상 다른 암호화폐 또는 법정화폐로 교환할 수 있습니다."
+      }
+   },
+   "block-6": {
+      "title": "로드맵",
+      "card-text-1": "프로젝트 202 인프라 개발 시작. 바이낸스 스마트체인 토큰 발행",
+      "card-text-2": "테스트넷 블록체인 P202 출시. P202 지갑 IOS/안드로이드 모바일 앱",
+      "card-text-3": "P202 익스플로러(테스트넷) 블록체인. 70개 이상의 생성기가 있는 서버 테스트넷",
+      "card-text-4": "P202 서버 렌탈 플랫폼입니다. P202 Generators 서버 프로그램. P202 D/E/F 토큰 출시",
+      "card-text-5": "다른 Project 202 Pay 블록체인과 연결. Project202 모바일 결제 단말기",
+      "card-text-6": "P202 상품 및 서비스에 대한 암호 화폐 결제로 비즈니스 시작",
+      "button-text": "토큰 사전 판매"
+   },
+   "block-7": {
+      "title": "미디어",
+      "card-1": {
+         "title": "Discord",
+         "description": "전체 Project 202 커뮤니티가 여기에 모여 있으며 프로젝트에 대한 정보를 얻고 개발 및 성장을 돕습니다."
+      },
+      "card-2": {
+         "title": "Twitter",
+         "description": "프로젝트 뉴스 및 업데이트.  이것은 모두 당사 공식 트위터 채널에서 확인할 수 있습니다."
+      },
+      "card-3": {
+         "title": "Youtube",
+         "description": "공식 프로젝트 202 유튜브 채널.  비디오 및 프로젝트 리뷰."
+      },
+      "card-4": {
+         "title": "Medium",
+         "description": "우리의 기사를 읽고 우리의 프로젝트에 대해 자세히 알아보십시오."
+      },
+      "card-5": {
+         "title": "Github",
+         "description": "소스 코드에 대해 자세히 알아보기"
+      }
+   },
+   "block-8": {
+      "title": "놓치지 마세요. 최신 정보를 유지하세요!",
+      "subtitle": "당신이 블록체인 인플루언서라면 – 특별 제안 받기",
+      "input-placeholder": "귀하의 이메일",
+      "button-text": "지금 사세요",
+      "sent-text": "Thanks! Your data has been sent."
+   },
+   "block-9": {
+      "title": "Our team",
+      "card-1": {
+         "title": "Rustam",
+         "description": "Co-Founder"
+      },
+      "card-2": {
+         "title": "Dmitry",
+         "description": "CEO"
+      },
+      "card-3": {
+         "title": "Svetlana",
+         "description": "Head of the office"
+      },
+      "card-4": {
+         "title": "Nickolay",
+         "description": "Developer"
+      },
+      "card-5": {
+         "title": "Yurii",
+         "description": "Designer and 3D Graphics"
+      },
+      "card-6": {
+         "title": "Sabrina",
+         "description": "Head of South Korea Department"
+      },
+      "card-7": {
+         "title": "Elena",
+         "description": "CSO"
+      },
+      "card-8": {
+         "title": "Sergei",
+         "description": "Designer"
+      },
+      "card-9": {
+         "title": "Alex",
+         "description": "Head of the Blockchain Department"
+      },
+      "card-10": {
+         "title": "Ramin",
+         "description": "Web3 Foundation"
+      }
+   },
+   "footer": {
+      "menu-item-1": "Our mission",
+      "menu-item-2": "Key features",
+      "menu-item-3": "Our tokenomics",
+      "menu-item-4": "FAQ",
+      "menu-item-5": "Roadmap",
+      "menu-item-6": "Privacy Policy",
+      "button-main-text": "Presale Token",
+      "button-back-to-home": "Back to Home"
+   },
+   "presale-contract": {
+      "title": "Project 202 Presale",
+      "text-1": "Token Smart Contract",
+      "text-2": "Presale Smart Contract",
+      "button-text": "Connecting MetaMask to Binance Smart Chain",
+      "button-swith-text": "Add BSC Network to MetaMask",
+      "button-add-token-text": "Add P202 Token to MetaMask"
+   },
+   "presale-amount": {
+      "title": "P202 Available for Presale",
+      "label-1": "Price, BNB",
+      "label-2": "P202 amount",
+      "label-3": "BNB amount",
+      "row-button-text": "max",
+      "button-text": "Buy",
+      "label-4": "Balance P202",
+      "label-5": "Balance BNB",
+      "label-6": "Address"
+   },
+   "privacy": {
+      "title": "Privacy Policy",
+      "caption-1": "Who we are",
+      "text-1": "Our website address is: www.p202.io",
+      "caption-2": "What personal data we collect and why we collect it",
+      "text-2-1": "Comments",
+      "text-2-2": "When visitors leave comments on the site we collect the data from the comments form, as well as the visitor’s IP address and browser user agent string to help in spam detection.",
+      "text-2-3": "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy (https://automattic.com/privacy/)/. After approval of your comment, your profile picture is visible to the public in the context of your comment.",
+      "caption-3": "Media",
+      "text-3": "If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.",
+      "caption-4": "Cookies",
+      "text-4-1": "If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year. If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.",
+      "text-4-2": "If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day. Embedded content from other websites Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.",
+      "text-4-3": "These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website. Analytics",
+      "caption-5": "Analytics",
+      "text-5-1": "If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.",
+      "text-5-2": "For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information. What rights you have over your data If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.v",
+      "caption-6": "Where we send your data",
+      "text-6": "Visitor comments may be checked through an automated spam detection service."
+   }
+}

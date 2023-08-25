@@ -1,0 +1,263 @@
+{
+   "Your wallet": "您的钱包",
+   "header": {
+      "menu-item-1": "我们的使命",
+      "menu-item-2": "重要功能",
+      "menu-item-3": "我们的代币经济",
+      "menu-item-4": "常见问题",
+      "menu-item-5": "产品路线图",
+      "button-back-to-home": "连接钱包"
+   },
+   "block-1": {
+      "title-1": "新一代区块链和加密货币",
+      "button-text": "代币预售",
+      "title-2": "什么是Project 202？",
+      "text-1": "P202 项目的基础设施是新一代区块链，在 Proof-Of-Stake 协议上运行，设备分布在不同的大陆。 未用于区块链功能的设备容量的免费部分可以在 P202 Servers 平台上租用，并使用 P202 硬币支付。",
+      "text-2": "事务处理和整个基础设施的操作发生在服务器硬件上，将事务处理速度从 100,000 千/秒提高。"
+   },
+   "block-2": {
+      "title": "我们的使命",
+      "text-1": "具有真实服务器基础架构的商业模式",
+      "text-2": "由于在构建服务器架构时不使用高度稀缺的组件（该结构构建在高性能数字存储器、内存和处理器上的连接），所以建服务器并将它们接入P202网络不会导致组件的供应问题，例如视频卡和其他图形加速器。",
+      "text-3": "因此，在接入网络时，发电机将不会面临采购、安装和配置的问题，高流动性将允许其使用之前闲置的设备容量或租用现成的服务器。",
+      "text-4": "我们将服务器放置在关键网络节点中",
+      "text-5": "这使得最大数量的人能够使用他们的设备加入我们的网络，并从他们的能力中获得有保障的收入。",
+      "text-6": "到 2023 年，我们计划连接 4000 多个用户，到 2024 年，我们将这个数字增加到 28 000 个"
+   },
+   "block-3": {
+      "title": "主要优势",
+      "subtitle": "P202 硬币用于整个 Project 202 基础设施，以及在支付佣金、向发电机付款和购买",
+      "card-1": {
+         "title": "自有基础设施和数据中心",
+         "description": "分布在世界各地的基础设施和数据中心确保 Project202 的不间断和可靠运行"
+      },
+      "card-2": {
+         "title": "佣金低，交易无延迟",
+         "description": "由于网络的低佣金，无论加密货币汇率如何，任何交易的转账都只需几美分"
+      },
+      "card-3": {
+         "title": "稳定增长的硬币率",
+         "description": "共有 500,000,000 个硬币。有限的发行将确保硬币率的持续增长和整个社区的赚钱机会"
+      },
+      "card-4": {
+         "title": "我们开发了最好的",
+         "description": "以区块链为基础，针对项目任务进行补充优化。 基于人工智能的“BlockchainProject202”将于近期发布"
+      }
+   },
+   "block-4": {
+      "title": "计划的代币经济",
+      "subtitle": "该项目的发展得到了未来几十年路线图的保障和支持。 大量创新去中心化服务器的引入，将为代币提供持续的市场需求",
+      "card-text-1": {
+         "text": "硬币的主要份额用于维护基础设施，进行区块链之间的交换，在中心化和去中心化交易所进行交易，并放置交易量",
+         "percent": 35
+      },
+      "card-text-2": {
+         "text": "系统的技术支持。 P202 硬币用于 Project 202 服务器平台、区块链 P202 和 P202 支付系统",
+         "percent": 25
+      },
+      "card-text-3": {
+         "text": "开发团队币被冻结 21 个月。通过 team.finance 逐步解锁 25% 的代币",
+         "percent": 15
+      },
+      "card-text-4": {
+         "text": "流动性 （代币将用于冻结流动性）",
+         "percent": 10
+      },
+      "card-text-5": {
+         "text": "Advisors的硬币分布在Project 202的顾问 ",
+         "percent": 10
+      },
+      "card-text-6": {
+         "text": "Airdrop P202在社区内分配",
+         "percent": 5
+      },
+      "card-text-7": {
+         "text": "",
+         "percent": ""
+      },
+      "card-text-8": {
+         "text": "",
+         "percent": ""
+      },
+      "graph": {
+         "title": "分阶段解冻代币",
+         "text-1": {
+            "count": "Q1",
+            "year": "2023",
+            "row-1": "解冻 ¼ Airdrop代币。",
+            "row-2": "解冻 25% 的团队代币。"
+         },
+         "text-2": {
+            "count": "Q2",
+            "year": "2023",
+            "row-1": "解冻 ¼ Airdrop代币。",
+            "row-2": "解冻 25% 的团队代币。"
+         },
+         "text-3": {
+            "count": "Q3",
+            "year": "2023",
+            "row-1": "解冻 ¼ Airdrop代币。",
+            "row-2": "解冻 25% 的团队代币。"
+         },
+         "text-4": {
+            "count": "Q4",
+            "year": "2023",
+            "row-1": "解冻 ¼ Airdrop代币。",
+            "row-2": "解冻 25% 的团队代币。"
+         }
+      },
+      "text-bottom": "除了加密货币之外，Project 202 还拥有一家正式注册的公司，所有去中心化服务器都使用基础设施和 P202 服务器作为单独的区域运行",
+      "list": {
+         "elem-1": "租用高速 VDS 服务器",
+         "elem-2": "基于P202 Cloud的云解决方案",
+         "elem-3": "大数据处理解决方案",
+         "elem-4": "基于人工智能的处理算法",
+         "elem-5": "SaaS服务器",
+         "elem-6": "用于创建和部署元宇宙的 SDK",
+         "elem-7": "基于 P202 服务器的 4K 和 8K 在线广播服务机构"
+      }
+   },
+   "block-5": {
+      "title": "常见问题与解答",
+      "elem-1": {
+         "question": "P202区块链基于什么？",
+         "answer": "区块链基于权益证明机制(Proof of Stake)，具有改进的事务处理和减小的块大小。"
+      },
+      "elem-2": {
+         "question": "谁是发电机？",
+         "answer": "发电机是 Project 202 的支柱。通过处理交易和参与共识，每个生成器都帮助 Project202 网络成为世界上最广泛的区块链 3.0。"
+      },
+      "elem-3": {
+         "question": "项目为什么需要自己的去中心化和服务器？",
+         "answer": "任何技术项目都需要服务器来创建和测试信息技术产品并维护基础设施安全。 由于位于不同的国家和不同的司法管辖区，我们抵消了与位于一个司法管辖区相关的风险。"
+      },
+      "elem-4": {
+         "question": "服务器如何租用？",
+         "answer": "服务器用于加密货币和其他支付方式将在 Project 202 Server 平台上租用。 VDS 服务器和现成的解决方案，用于创建区块链项目和 Dapps 应用程序。云端解决方案基于最新的设备和技术。"
+      },
+      "elem-5": {
+         "question": "项目已经准备了什么？",
+         "answer": "目前，P202 Wallet 1.0v 已具备基本功能以及存储、交换、转移和拥有代币和加密货币的能力。启动“区块链项目 202”测试网。服务器程序“P202 Generator”已开发并正在测试中。 “Project 202 Server”服务器租赁项目正在进行中。"
+      },
+      "elem-6": {
+         "question": "为什么需要与其他区块链的桥梁？",
+         "answer": "代币和加密货币从其他区块链的桥梁或迁移主要是为了将数据和账户从过时的、已加载的区块链转移到另一个区块链以进行交易和转移，以及区块链与当前网络和代币的新版本的兼容性。"
+      },
+      "elem-7": {
+         "question": "你们项目为什么需要 P202D,E,F 稳定币？",
+         "answer": "稳定币是市场上任何情况下具有固定成本的强制性单位，为了能够开发商品或服务的支付，我们需要稳定币。您可以始终保持冷静，因为在市场操纵期间加密货币汇率并未崩溃，使用我们的 P202D 稳定币您可以保持冷静，因为它由实体银行中的真实资产支持，并且在任何情况下您都可以将其兑换成类似的单位。"
+      }
+   },
+   "block-6": {
+      "title": "产品路线图",
+      "card-text-1": "Project 202 基础设施开发启。Binance Smart Chain代币发行。",
+      "card-text-2": "Testnet区块链P202的启动。手机应用 P202 钱包 IOS/Android。",
+      "card-text-3": "P202 Explorer (Testnet) 区块链。服务器测试网络超过 70发电机。",
+      "card-text-4": "P202服务器租用平台。 服务器程序P202 Generators。 P202 D/E/F稳定币的启动。",
+      "card-text-5": "区块链Project 202与其他区块链项目搭建桥梁，并拥有用于接受支付的移动终端",
+      "card-text-6": "推出 P202 Business，为商品和服务引入加密货币支付",
+      "button-text": "代币预售"
+   },
+   "block-7": {
+      "title": "社交网络",
+      "card-1": {
+         "title": "Discord",
+         "description": "整个活跃的 Project 202 社区都聚集在这里，您可以获取有关该项目的信息，并帮助该项目发展壮大"
+      },
+      "card-2": {
+         "title": "Twitter",
+         "description": "在官方频道和Twitter上您可以找到关于我们项目的新闻和更新"
+      },
+      "card-3": {
+         "title": "Youtube",
+         "description": "Project 202 官方频道包含有关该项目的所有视频和采访"
+      },
+      "card-4": {
+         "title": "Medium",
+         "description": "在Medium上您可以阅读所有文章，并了解有关我们项目的更多信息"
+      },
+      "card-5": {
+         "title": "Github",
+         "description": "在 Github 上您可以查看我们的源代码"
+      }
+   },
+   "block-8": {
+      "title": "千万别错过。 保持联系！",
+      "subtitle": "如果您是区块链影响者，您可以享受特别优惠。 别错过机会！",
+      "input-placeholder": "你的邮件",
+      "button-text": "收到",
+      "sent-text": "谢谢！您的数据已发送"
+   },
+   "block-9": {
+      "title": "Our team",
+      "card-1": {
+         "title": "Rustam",
+         "description": "Co-Founder"
+      },
+      "card-2": {
+         "title": "Dmitry",
+         "description": "CEO"
+      },
+      "card-3": {
+         "title": "Svetlana",
+         "description": "Head of the office"
+      },
+      "card-4": {
+         "title": "Nickolay",
+         "description": "Developer"
+      },
+      "card-5": {
+         "title": "Yurii",
+         "description": "Designer and 3D Graphics"
+      },
+      "card-6": {
+         "title": "Sabrina",
+         "description": "Head of South Korea Department"
+      },
+      "card-7": {
+         "title": "Elena",
+         "description": "CSO"
+      },
+      "card-8": {
+         "title": "Sergei",
+         "description": "Designer"
+      },
+      "card-9": {
+         "title": "Alex",
+         "description": "Head of the Blockchain Department"
+      },
+      "card-10": {
+         "title": "Ramin",
+         "description": "Web3 Foundation"
+      }
+   },
+   "footer": {
+      "menu-item-1": "我们的使命",
+      "menu-item-2": "重要功能",
+      "menu-item-3": "我们的代币经济",
+      "menu-item-4": "常见问题",
+      "menu-item-5": "产品路线图",
+      "menu-item-6": "隐私权政策",
+      "button-main-text": "代币预售",
+      "button-back-to-home": "回到主页"
+   },
+   "presale-contract": {
+      "title": "Presale Coin P202",
+      "text-1": "P202币智能合约",
+      "text-2": "Presale P202智能合约",
+      "button-text": "将 P202 硬币添加到 Metamask 的说明",
+      "button-swith-text": "将 BSC 网络添加到 MetaMask",
+      "button-add-token-text": "将 P202代币添加到 MetaMask"
+   },
+   "presale-amount": {
+      "title": "P202币可用数量",
+      "label-1": "BNB 中 P202 币的价格",
+      "label-2": "P202金额",
+      "label-3": "P202金额",
+      "row-button-text": "最大限度",
+      "button-text": "购买",
+      "label-4": "P202余额",
+      "label-5": "BNB 余额",
+      "label-6": "地址"
+   }
+}

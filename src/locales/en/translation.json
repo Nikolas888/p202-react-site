@@ -1,0 +1,284 @@
+{
+   "Your wallet": "Your wallet",
+   "header": {
+      "menu-item-1": "Our mission",
+      "menu-item-2": "Key features",
+      "menu-item-3": "Our tokenomics",
+      "menu-item-4": "FAQ",
+      "menu-item-5": "Roadmap",
+      "button-back-to-home": "Connect wallet"
+   },
+   "block-1": {
+      "title-1": "The New Generation of Blockchain and Cryptocurrency",
+      "button-text": "TOKEN PRE-SALE",
+      "video-instructions-text": "Video instructions for buying coins",
+      "title-2": "What is Project202?",
+      "text-1": "The PROJECT202 infrastructure is a Proof-Of-Stake (PoS) algorithm-based blockchain 3.0 system, with its own decentralized data centers located on various countries. The Spare equipment capacity which is not being utilized for servicing the cryptocurrency infrastructure can be rented out for use on our P202 Servers platform with payments rendered via the P202 Token.",
+      "text-2": "Transaction processing and the work of the entire infrastructure will be held on server equipment, scaling the transaction speed ability to 100,000 transactions per second or more."
+   },
+   "block-2": {
+      "title": "Our mission",
+      "text-1": "A business model utilizing real server infrastructure",
+      "text-2": "When constructing server architecture without the use of highly scarce components (the structure is based on a high-performance bundle of storage drives, RAM and processors), launching servers and their further integration into the P202 network will not be hampered by the supply of other components, such as video cards and graphic accelerators.",
+      "text-3": "This way, when a validator connects to our network there will not be any issues with installation and/or configuration. Meanwhile, high liquidity will allow it to use the previously idle capacity of its hardware.",
+      "text-4": "Our servers are located in the key nodes of our network",
+      "text-5": "This allows the maximum number of people to have the opportunity to join our network with their equipment and receive guaranteed earnings for utilizing their capacities.",
+      "text-6": "We expect to have 4,000 on our platform by 2023. This number is expected to grow to 28,000 by 2024"
+   },
+   "block-3": {
+      "title": "Key Features & Advantages",
+      "subtitle": "PROJECT 202 enables the use of the P202 Coin in its entire infrastructure, as well as for commission payouts, payments to generators, and in making purchases",
+      "card-1": {
+         "title": "Our own infrastructure of data centers",
+         "description": "A network of globally-distributed data centers enables secure and reliable operations of Project 202"
+      },
+      "card-2": {
+         "title": "Low fees and no latency transactions",
+         "description": "Low commission fees make it possible to pay just a few cents to make any transfer independent of cryptocurrency price rates"
+      },
+      "card-3": {
+         "title": "Stable increase in coin rate",
+         "description": "A fixed supply of 500,000,000 coins. Limited emission will ensure constant growth of the coin rate, providing an opportunity for the entire community to profit"
+      },
+      "card-4": {
+         "title": "We took the best and refined it",
+         "description": "The blockchain model is updated and optimized for the project tasks. The Al-based 'Blockchain Project 202' will be launched in the near future"
+      }
+   },
+   "block-4": {
+      "title": "Project Tokenomics",
+      "subtitle": "The development of the project is secured and backed by a roadmap for decades to come. The introduction of many innovative decentralized services will ensure that the coin is in constant demand in the market",
+      "card-text-1": {
+         "text": "The primary share of coins is used for infrastructure maintenance, exchanges between blockchains, carrying out transactions, and placing volume on centralized and decentralized exchanges",
+         "percent": 35
+      },
+      "card-text-2": {
+         "text": "Technical ecosystem support. The P202 coin is used on the 'Project 202 Server' platform, Blockchain P202, and in the P202 Pay system",
+         "percent": 25
+      },
+      "card-text-3": {
+         "text": "The coins of the development team are frozen for 21 months. Afterwards, they are gradually unfrozen by 25% with the help of team.finance",
+         "percent": 15
+      },
+      "card-text-4": {
+         "text": "Liquidity (Coins will be used to freeze the liquidity)",
+         "percent": 10
+      },
+      "card-text-5": {
+         "text": "Coins for Advisors are distributed among Project 202 consultants",
+         "percent": 10
+      },
+      "card-text-6": {
+         "text": "Airdrop P202 is distributed within the community",
+         "percent": 5
+      },
+      "card-text-7": {
+         "text": "",
+         "percent": ""
+      },
+      "card-text-8": {
+         "text": "",
+         "percent": ""
+      },
+      "graph": {
+         "title": "Unfreezing Tokens Stages",
+         "text-1": {
+            "count": "Q1",
+            "year": "2023",
+            "row-1": "Unfreeze 1/4 of the Airdrop tokens.",
+            "row-2": "Unfreeze 25% of the team's tokens."
+         },
+         "text-2": {
+            "count": "Q2",
+            "year": "2023",
+            "row-1": "Unfreeze 1/4 of the Airdrop tokens.",
+            "row-2": "Unfreeze 25% of the team's tokens."
+         },
+         "text-3": {
+            "count": "Q3",
+            "year": "2023",
+            "row-1": "Unfreeze 1/4 of the Airdrop tokens.",
+            "row-2": "Unfreeze 25% of the team's tokens."
+         },
+         "text-4": {
+            "count": "Q4",
+            "year": "2023",
+            "row-1": "Unfreeze 1/4 of the Airdrop tokens.",
+            "row-2": "Unfreeze 25% of the team's tokens."
+         }
+      },
+      "text-bottom": "In addition to cryptocurrency, Project202 has a separate,  officially registered company, where all decentralized services run separately using the server infrastructure of P202 Server",
+      "list": {
+         "elem-1": "High-speed VDS server leasing program",
+         "elem-2": "P202 Cloud-based solutions",
+         "elem-3": "BIG DATA Processing Solutions",
+         "elem-4": "Algorithms for AI-based processing",
+         "elem-5": "SaaS services",
+         "elem-6": "SDK for creating and deploying Meta Universes",
+         "elem-7": "Services for 4K and 8K online broadcasts on P202 servers"
+      }
+   },
+   "block-5": {
+      "title": "Question & Answer",
+      "elem-1": {
+         "question": "What is the P202 blockchain model?",
+         "answer": "Blockchain works on Proof-of-Stake (PoS) consensus algorithm with improved transaction processing and a reduced block size as well."
+      },
+      "elem-2": {
+         "question": "What is a generator?",
+         "answer": "Generators are the core of Project 202. By processing transactions and participating in consensus, each generator helps Project202 network become the most extensive blockchain 3.0 in the world."
+      },
+      "elem-3": {
+         "question": "Why does the project have its own data centers and servers?",
+         "answer": "Servers are an essential part of any tech project, enabling the creation and testing of products, as well as maintaining infrastructure security. Our locations in different countries and jurisdictions allows us to reduce any risks associated with being concentrated in one jurisdiction."
+      },
+      "elem-4": {
+         "question": "How will the servers be leased?",
+         "answer": "Servers will be leased out on the Project 202 Server platform, for the purpose of facilitating payments via cryptocurrency, as well as other methods. VDS servers and ready-made solutions for creating Blockchain projects and Dapps applications. Our Cloud solutions are based on the latest equipment and solutions."
+      },
+      "elem-5": {
+         "question": "What has already been implemented?",
+         "answer": "Currently, the P202 Wallet 1.0v with basic functionality and the ability to store, exchange, transfer and own tokens, along with other cryptocurrency is ready. The 'Blockchain Project 202' Testnet has been launched. The server 'P202 Generator' program has been developed and is currently in the process of being tested. The 'Project 202 Server' leasing capacities project is currently under development."
+      },
+      "elem-6": {
+         "question": "Why do we need blockchain bridges?",
+         "answer": "Bridges for the migration of tokens and other cryptocurrency from other blockchains are needed primarily for the possibility of transferring data and accounts from outdated, overloaded blockchains to another one for transactions and transfers, as well as for compatibility of the blockchain with new versions of current networks and tokens."
+      },
+      "elem-7": {
+         "question": "Why does your project need P202 D, E, F stablecoins?",
+         "answer": "A stablecoin is a mandatory unit, which holds a fixed value, regardless of any market situations. In order to develop functionality for payments for goods or services, a stablecoin is required. This eliminates the risk of adverse effects due to a possible cryptocurrency exchange rate collapse, as it often the case with market manipulation. Since our P202D stablecoin is secured with real assets in a physical bank, you will always have the ability to exchange it for another cryptocurrency or fiat."
+      }
+   },
+   "block-6": {
+      "title": "Roadmap",
+      "card-text-1": "Launch of the Project 202 infrastructure development. Binance Smart Chain token issuance",
+      "card-text-2": "Testnet Blockchain P202 launch. P202 Wallet IOS/Android mobile app",
+      "card-text-3": "P202 Explorer (Testnet) blockchain. Server Testnet with more than 70 Generators",
+      "card-text-4": "P202 Server rental platform. P202 Generators Server program. P202 D/E/F token launch ",
+      "card-text-5": "Bridging with other Project 202 Pay Blockchains. Project202 mobile payment terminal",
+      "card-text-6": "P202 Business launch with cryptocurrency payment for goods and services",
+      "button-text": "TOKEN PRE-SALE"
+   },
+   "block-7": {
+      "title": "Media",
+      "card-1": {
+         "title": "Discord",
+         "description": "The entire Project 202 community is gathered here and you can get information about the project, helping it develop and grow"
+      },
+      "card-2": {
+         "title": "Twitter",
+         "description": "Project news and updates. This can all be found on our official Twitter channel"
+      },
+      "card-3": {
+         "title": "Youtube",
+         "description": "Official Project 202 YouTube channel. Videos and project reviews"
+      },
+      "card-4": {
+         "title": "Medium",
+         "description": "Read our articles and learn more about our project"
+      },
+      "card-5": {
+         "title": "Github",
+         "description": "Learn more about our source code on GitHub"
+      }
+   },
+   "block-9": {
+      "title": "Our team",
+      "card-1": {
+         "title": "Rustam",
+         "description": "Co-Founder"
+      },
+      "card-2": {
+         "title": "Dmitry",
+         "description": "CEO"
+      },
+      "card-3": {
+         "title": "Svetlana",
+         "description": "Head of the office"
+      },
+      "card-4": {
+         "title": "Nickolay",
+         "description": "Developer"
+      },
+      "card-5": {
+         "title": "Yurii",
+         "description": "Designer and 3D Graphics"
+      },
+      "card-6": {
+         "title": "Sabrina",
+         "description": "Head of South Korea Department"
+      },
+      "card-7": {
+         "title": "Elena",
+         "description": "CSO"
+      },
+      "card-8": {
+         "title": "Sergei",
+         "description": "Designer"
+      },
+      "card-9": {
+         "title": "Alex",
+         "description": "Head of the Blockchain Department"
+      },
+      "card-10": {
+         "title": "Ramin",
+         "description": "Web3 Foundation"
+      }
+   },
+   "block-8": {
+      "title": "Don’t miss out. Stay up-to-date!",
+      "subtitle": "If You are a Blockchain Influencer – Get Your Special Offer",
+      "input-placeholder": "Your e-mail",
+      "button-text": "Get it now",
+      "sent-text": "Thanks! Your data has been sent."
+   },
+   "footer": {
+      "menu-item-1": "Our mission",
+      "menu-item-2": "Key features",
+      "menu-item-3": "Our tokenomics",
+      "menu-item-4": "FAQ",
+      "menu-item-5": "Roadmap",
+      "menu-item-6": "Privacy Policy",
+      "button-main-text": "Presale Token",
+      "button-back-to-home": "Back to Home"
+   },
+   "presale-contract": {
+      "title": "Project 202 Presale",
+      "text-1": "Token Smart Contract",
+      "text-2": "Presale Smart Contract",
+      "button-text": "Connecting MetaMask to Binance Smart Chain",
+      "button-swith-text": "Add BSC Network to MetaMask",
+      "button-add-token-text": "Add P202 Token to MetaMask"
+   },
+   "presale-amount": {
+      "title": "P202 Available for Presale",
+      "label-1": "Price, BNB",
+      "label-2": "P202 amount",
+      "label-3": "BNB amount",
+      "row-button-text": "max",
+      "button-text": "Buy",
+      "label-4": "Balance P202",
+      "label-5": "Balance BNB",
+      "label-6": "Address"
+   },
+   "privacy": {
+      "title": "Privacy Policy",
+      "caption-1": "Who we are",
+      "text-1": "Our website address is: www.p202.io",
+      "caption-2": "What personal data we collect and why we collect it",
+      "text-2-1": "Comments",
+      "text-2-2": "When visitors leave comments on the site we collect the data from the comments form, as well as the visitor’s IP address and browser user agent string to help in spam detection.",
+      "text-2-3": "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy (https://automattic.com/privacy/)/. After approval of your comment, your profile picture is visible to the public in the context of your comment.",
+      "caption-3": "Media",
+      "text-3": "If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.",
+      "caption-4": "Cookies",
+      "text-4-1": "If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year. If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.",
+      "text-4-2": "If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day. Embedded content from other websites Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.",
+      "text-4-3": "These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website. Analytics",
+      "caption-5": "Analytics",
+      "text-5-1": "If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.",
+      "text-5-2": "For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information. What rights you have over your data If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.v",
+      "caption-6": "Where we send your data",
+      "text-6": "Visitor comments may be checked through an automated spam detection service."
+   }
+}
